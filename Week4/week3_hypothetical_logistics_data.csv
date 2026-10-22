@@ -1,0 +1,25 @@
+Shipment_ID,Region,Transport_Mode,Shipment_Volume_kg,Delivery_Time_days,Transport_Cost_USD,Delay_Days,Delivery_Status
+101,North,Road,120,2.1,18,2,On Time
+102,South,Road,85,1.4,12,1,On Time
+103,East,Air,310,0.8,8,0,On Time
+104,West,Road,160,3.2,25,4,Delayed
+105,North,Rail,190,2.5,30,2,On Time
+106,South,Road,95,1.8,15,3,Delayed
+107,East,Road,140,2.2,20,1,On Time
+108,West,Air,340,0.7,9,0,On Time
+109,North,Road,130,2.9,22,3,Delayed
+110,South,Rail,175,2.4,28,1,On Time
+111,East,Road,115,1.9,16,2,On Time
+112,West,Road,155,3.5,27,5,Delayed
+113,North,Air,295,0.9,10,0,On Time
+114,South,Road,105,2.7,21,4,Delayed
+115,East,Rail,205,2.3,31,2,On Time
+116,West,Road,170,3.1,24,3,Delayed
+117,North,Road,125,2.0,17,1,On Time
+118,South,Air,325,0.8,9,0,On Time
+119,East,Road,145,2.6,23,3,Delayed
+120,West,Rail,185,2.8,32,2,On Time
+121,North,Road,135,2.4,20,2,On Time
+122,South,Road,90,3.0,24,4,Delayed
+123,East,Air,305,0.9,11,0,On Time
+124,West,Road,165,3.3,26,4,Delayed
